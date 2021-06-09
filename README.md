@@ -1,14 +1,4 @@
 <p align="center">
-   <a href="https://www.linkedin.com/in/raphael-fleury/">
-       <img alt="LinkedIn" width="27px" src="https://image.flaticon.com/icons/png/128/61/61109.png?ga=GA1.2.1429006135.1605056873"/> &nbsp;&nbsp;
-   </a>
-    
-   <a href="mailto:raphael.fleury9@gmail.com">
-       <img alt="Gmail" width="27px" src="https://image.flaticon.com/icons/png/128/60/60543.png?ga=GA1.2.1429006135.1605056873"/> &nbsp;&nbsp;
-   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/raphael-fleury">
     <img 
          align="center" 
