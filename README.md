@@ -1,14 +1,4 @@
 <p align="left">
- 💻 Actually working at ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.fcamara.com.br">
-    <img src="https://img.shields.io/badge/Fcamara%20-%23FC6027.svg?&style=for-the-badge" />
-  </a>
-</p>
-
-<p align="left">
   :electron: Main technologies ⤵️ 
 </p>
 
